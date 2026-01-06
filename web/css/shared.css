@@ -1,0 +1,59 @@
+ .mi-gridview {
+     font-size: 11px;
+ }
+
+ .btn-create {
+     width: 300px;
+ }
+
+ .centrar {
+     text-align: center;
+ }
+
+ .izquierda {
+     text-align: left;
+ }
+
+ .derecha {
+     text-align: right;
+ }
+
+ .horizontal-line {
+     border: none;
+     border-top: 1px solid #ccc;
+     /* Color y grosor de la línea */
+     margin: 10px 0;
+     /* Espacio alrededor de la línea */
+ }
+
+ #tipodocumento_traspaso {
+     margin-right: 5px;
+ }
+
+ .d-none {
+     display: none;
+ }
+
+ .fila-verde {
+     background-color: #d4edda !important;
+     color: #155724 !important;
+     font-weight: bold;
+ }
+
+ .fila-roja {
+     background-color: #f8d7da !important;
+     color: #721c24 !important;
+     font-weight: bold;
+ }
+
+ table tr.fila-verde td {
+     background-color: #d4edda !important;
+     color: #155724 !important;
+     font-weight: bold;
+ }
+
+ table tr.fila-roja td {
+     background-color: #f8d7da !important;
+     color: #721c24 !important;
+     font-weight: bold;
+ }
