@@ -13,7 +13,7 @@ use yii\web\AssetBundle;
 /**
  * Main application asset bundle.
  *
- * @author Qiang Xue <qiang.xue@gmail.com>
+ * @author Victor Burbano vburbano@live.com
  * @since 2.0
  */
 class AppAsset extends AssetBundle
