@@ -1,3 +1,18 @@
+# GRUMALOG Scan
+
+**Sistema de auditoría y conteo de inventarios en bodega — Grupo Mayorista S.A.**
+
+## Documentación del proyecto
+
+| Documento | Descripción |
+|---|---|
+| [web/docs/README.md](web/docs/README.md) | Índice general y acceso rápido |
+| [web/docs/manual-usuario.md](web/docs/manual-usuario.md) | Guía operativa para almacenistas, auditores y supervisores |
+| [web/docs/documento-tecnico.md](web/docs/documento-tecnico.md) | Arquitectura, stack, despliegue, seguridad y mantenimiento |
+
+---
+
+<!-- Contenido original del template Yii 2 Basic -->
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
